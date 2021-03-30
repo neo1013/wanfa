@@ -1,0 +1,125 @@
+
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?4yg6bh');
+  src:  url('fonts/icomoon.eot?4yg6bh#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?4yg6bh') format('truetype'),
+    url('fonts/icomoon.woff?4yg6bh') format('woff'),
+    url('fonts/icomoon.svg?4yg6bh#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-1:before {
+  content: "\e900";
+  color: #e53333;
+}
+.icon-2:before {
+  content: "\e901";
+  color: #888;
+  font-size:50px;
+}
+.icon-3:before {
+  content: "\e903";
+  color: #888;
+  font-size:45px;
+}
+.icon-4:before {
+  content: "\e902";
+  color: #707070;
+  font-size:50px;
+}
+.icon-5:before {
+  content: "\e904";
+  color: #707070;
+}
+.icon-6:before {
+  content: "\e905";
+  color: #707070;
+}
+.icon-7:before {
+  content: "\e906";
+  color: #707070;
+}
+.icon-8:before {
+  content: "\e909";
+  color: #fff;
+}
+.icon-9:before {
+  content: "\e907";
+  color: #fff;
+}
+.icon-10:before {
+  content: "\e908";
+  color: #fff;
+}
+.icon-11:before {
+  content: "\e913";
+  color: #707070;
+}
+.icon-12:before {
+  content: "\e90c";
+  color: #707070;
+}
+.icon-13:before {
+  content: "\e90e";
+  color: #707070;
+}
+.icon-14:before {
+  content: "\e90f";
+  color: #707070;
+}
+.icon-15:before {
+  content: "\e90b";
+  color: #707070;
+}
+.icon-16:before {
+  content: "\e90d";
+  color: #707070;
+}
+.icon-17:before {
+  content: "\e90a";
+  color: #707070;
+}
+.icon-18:before {
+  content: "\e911";
+  color: #e53333;
+}
+.icon-19:before {
+  content: "\e912";
+  color: #e53333;
+}
+.icon-20:before {
+  content: "\e910";
+  color: #e53333;
+}
+.icon-21:before {
+  content: "\e914";
+  color: #fff;
+}
+.icon-22:before{
+  content:"\e915";
+  color:#fff;
+}
+.icon-23:before{
+  content:"\e916";
+  color:#e53333;
+  font-size: 20px;
+}
+
